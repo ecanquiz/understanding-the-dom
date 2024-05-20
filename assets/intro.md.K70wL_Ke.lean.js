@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,V as o}from"./chunks/framework.C80zbCY-.js";const h=JSON.parse('{"title":"Introducción","description":"","frontmatter":{},"headers":[],"relativePath":"intro.md","filePath":"intro.md"}'),n={name:"intro.md"},r=o("",3),i=[r];function c(s,d,l,_,u,p){return a(),t("div",null,i)}const f=e(n,[["render",c]]);export{h as __pageData,f as default};
