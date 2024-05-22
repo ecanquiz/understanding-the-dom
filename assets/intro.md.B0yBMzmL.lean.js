@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,V as a}from"./chunks/framework.DyXmWNtN.js";const b=JSON.parse('{"title":"Introducción","description":"","frontmatter":{},"headers":[],"relativePath":"intro.md","filePath":"intro.md"}'),n={name:"intro.md"},s=a("",19),r=[s];function i(d,h,l,c,m,u){return o(),t("div",null,r)}const g=e(n,[["render",i]]);export{b as __pageData,g as default};
